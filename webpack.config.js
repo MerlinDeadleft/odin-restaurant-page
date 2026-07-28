@@ -1,4 +1,5 @@
 import path from "node:path";
+import HtmlWebpackPlugin from "html-webpack-plugin";
 
 export default {
   mode: "development",
@@ -12,7 +13,7 @@ export default {
   devServer: {
     watchFiles: ["./src/template.html"],
   },
-   plugins: [
+  plugins: [
     new HtmlWebpackPlugin({
       template: "./src/template.html",
     }),
