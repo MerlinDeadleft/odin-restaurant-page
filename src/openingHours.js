@@ -18,7 +18,7 @@ function buildOpeningHoursTable() {
     const table = document.createElement("table");
     
     const tableCaption = document.createElement("caption");
-    tableCaption.textContent = "Opening Hours";
+    tableCaption.textContent = "Hours";
 
     const tableHeader = document.createElement("thead");
     const headerRow = document.createElement("tr");
