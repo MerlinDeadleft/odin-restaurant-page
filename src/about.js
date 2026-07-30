@@ -43,9 +43,13 @@ function buildAboutTab() {
     gitRepoText.append(".");
     aboutText.appendChild(gitRepoText);
 
+    const attributionText = document.createElement("p");
+    attributionText.textContent = "Typography for this project features Smokum (Apache License 2.0) and Lora (SIL Open Font License).";
+
     aboutTab.appendChild(headline);
     aboutTab.appendChild(aboutWarning);
     aboutTab.appendChild(aboutText);
+    aboutTab.appendChild(attributionText);
 
     return aboutTab;
 }
