@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Breakfast",
+        "description": "Available Open - 11:00 AM",
+        "items": [
+            {
+                "name": "Sunrise Skillet (Classic Egg & Bacon)",
+                "description": "Two eggs cooked your way, served alongside three slices of thick-cut hickory-smoked bacon. Comes with a generous heap of our seasoned cast-iron potatoes and a slice of buttery Texas toast to sop it all up.",
+                "price": "$12"
+            },
+            {
+                "name": "Bunkhouse Breakfast (Sausage-Based Plate)",
+                "description": "Two griddle-seared country sausage links, two eggs cooked your way and a pile of crispy hash browns.",
+                "price": "$13"
+            },
+            {
+                "name": "Gold Pan Flapjacks",
+                "description": "A short stack of three massive, fluffy buttermilk pancakes with crisped, buttery edges. Served hot off the griddle with a side of maple syrup and whipped butter.",
+                "price": "$10"
+            }
+        ]
+    },
+    {
+        "name": "Lunch",
+        "description": "Available 11:00 AM - Close",
+        "items": [
+            {
+                "name": "Cattle Baron's Dip (Beef Sandwich)",
+                "description": "Slow-roasted, thinly sliced beef brisket piled high on a toasted sourdough roll and topped with melted provolone cheese. Served with a side of savory, slow-simmered au jus for dipping.",
+                "price": "$16"
+            },
+            {
+                "name": "Stagecoach Club (Turkey/Ham Sandwich)",
+                "description": "Roasted turkey breast, smoked ham, sharp cheddar and crispy bacon, all layered between three thick slices of toasted sourdough with mayo, lettuce and tomato.",
+                "price": "$14"
+            },
+            {
+                "name": "Gold Rush BLT",
+                "description": "A small mountain of thick-cut bacon, fresh lettuce, crispy fried green tomatoes and house-made smoky pepper mayo served on toasted, thick-cut wheat bread.",
+                "price": "$13"
+            },
+            {
+                "name": "Trail Boss Pulled Pork",
+                "description": "Tender, slow-smoked pulled pork tossed in tangy western BBQ sauce. Served on a toasted brioche bun and crowned with a scoop of creamy house-made coleslaw.",
+                "price": "$14"
+            }
+        ]
+    },
+    {
+        "name": "Supper",
+        "description": "Available 5:00 PM - Close",
+        "items": [
+            {
+                "name": "Trailblazer Ribeye",
+                "description": "A 16-ounce hand-cut ribeye steak, generously seasoned and grilled over an open flame exactly to your liking. Served with a loaded baked potato and a side of seasonal vegetables.",
+                "price": "$28"
+            },
+            {
+                "name": "Smokey Mountain Ribs",
+                "description": "A hearty half-rack of slow-cooked pork ribs that fall right off the bone, smothered in tangy western BBQ sauce. Served with campfire baked beans and a warm cornbread muffin.",
+                "price": "$22"
+            },
+            {
+                "name": "Homestead Skillet Fried Chicken",
+                "description": "Half a chicken, buttermilk-battered and fried to a golden, crunchy perfection in a traditional cast-iron skillet. Accompanied by creamy mashed potatoes drowning in peppery country gravy.",
+                "price": "$19"
+            }
+        ]
+    },
+    {
+        "name": "Side Dishes & Fixins",
+        "description": "",
+        "items": [
+            {
+                "name": "Campfire Baked Beans",
+                "description": "Slow-simmered navy beans cooked thick and rich with molasses, brown sugar and savory bacon ends.",
+                "price": "$4"
+            },
+            {
+                "name": "Cast-Iron Potatoes",
+                "description": "Rustic diced potatoes, pan-fried in cast iron wiht onions, bell peppers and our house-blend of western seasonings.",
+                "price": "$4"
+            },
+            {
+                "name": "Wagon Wheel Onion Rings",
+                "description": "Thick-cut sweet onion rings, heavily battered and fried to a deep golden brown. Served with a side of smoky pepper mayo for dipping.",
+                "price": "$5"
+            },
+            {
+                "name": "Warm Buttermilk Cornbread",
+                "description": "Two thick squares of sweet, crumbly cornbread baked fresh daily. Served warm with a generous side of whipped honey butter.",
+                "price": "$3"
+            }
+        ]
+    },
+    {
+        "name": "Frontier Beverages",
+        "description": "",
+        "items": [
+            {
+                "name": "Campfire Roast Coffe",
+                "description": "A bottomless mug of our signature dark roast. Brewed strong, rich and piping hot.",
+                "price": "$2"
+            },
+            {
+                "name": "Homestead Sweet Tea",
+                "description": "Freshly brewed black tea served ice-cold in a mason jar, sweetened just right with pure cane sugar and served with a wedge of fresh lemon.",
+                "price": "$2"
+            }
+        ]
+    }
+]
