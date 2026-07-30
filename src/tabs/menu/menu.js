@@ -1,4 +1,4 @@
-import menuData from "./data/menu.json";
+import menuData from "../../data/menu.json";
 
 function buildMenuTab() {
     const menuTab = document.createElement("div");

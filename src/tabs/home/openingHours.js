@@ -1,4 +1,4 @@
-import openingHours from "./data/openingHours.json";
+import openingHours from "../../data/openingHours.json";
 
 function buildOpeningHoursDiv() {
     const hoursDiv = document.createElement("div");
