@@ -1,3 +1,4 @@
+import "./css/styles.css";
 import { buildHomeTab } from "./tabs/home/home.js";
 import { buildMenuTab } from "./tabs/menu/menu.js";
 import { buildAboutTab } from "./tabs/about/about.js";
